@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.0.0 (2025-03-25)
+## 2.0.0 (2025-03-27)
 
 * [bitnami/flink] Release 2.0.0 ([#32603](https://github.com/bitnami/charts/pull/32603))
 
